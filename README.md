@@ -2,6 +2,6 @@
 
 Este proyecto esta creado para mostrar diferentes maneras de incluir estilos en React.
 
-![Perritu](./assets/card.jpg)
+![Perritu](./assets/card.png)
 
 
