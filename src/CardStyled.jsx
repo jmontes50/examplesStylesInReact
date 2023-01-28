@@ -15,7 +15,7 @@ export default function CardStyled() {
         src="https://images.unsplash.com/photo-1609845768806-767fcfc317b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80"
       />
       <CardBody>
-        <CardTitle>Title</CardTitle>
+        <CardTitle>Código!</CardTitle>
         <CardText>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto
           facilis, aut commodi molestias odit porro. Consequuntur, obcaecati
